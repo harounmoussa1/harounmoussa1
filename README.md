@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💼 Project Manager at **JEENISO (Junior Enterprise ENISo)**
 - 🧑‍💻 Full Stack **MERN** developer (MongoDB, Express, React, Node)
 - 🤖 Interested in **AI / Computer Vision** (PyTorch, OpenCV, YOLOv8)
-- 📫 Reach me: **harounmoussa570@gmail.com**
+- 📫 Reach me: **harounmoussa570@gmail.com / haroun.moussa@eniso.u-sousse.tn**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/harounmoussa**
 
 ---
