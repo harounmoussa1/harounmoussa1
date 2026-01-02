@@ -42,8 +42,10 @@ Here are some ideas to get you started:
 ---
 
 ## Projects (Highlights)
+- **E-commerce Website** — Full-stack (MERN) online store with product catalog, cart, checkout flow, and admin features.
 - **Crypto Wallet Mobile App** — Secure wallet concept with transaction handling and clean UI.
 - **AI-Based Smart Trash Bin** — Waste detection & classification using **PyTorch + OpenCV + YOLOv8**.
+
 
 ---
 
