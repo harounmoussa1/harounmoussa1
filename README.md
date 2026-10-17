@@ -1,6 +1,6 @@
 # Hi, I'm Haroun Moussa 👋
 
-Final-year **Applied Computer Science Engineering** student at **ENISo** (Sousse, Tunisia), specializing in **AI/ML**, and **Project Manager at JEENISo**, the school's junior enterprise.
+Final-year **Applied Computer Science Engineering** student at **ENISo** (Sousse, Tunisia), specializing in **AI/ML**, and **Project Manager at JEENISo**.
 
 I work across two axes: **applied AI** (Mixture-of-Experts, RAG, computer vision, signal processing) and **full-stack engineering** (Spring Boot, React), from architecture to production deployment.
 
